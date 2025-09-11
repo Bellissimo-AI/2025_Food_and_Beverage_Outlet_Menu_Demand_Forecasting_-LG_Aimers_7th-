@@ -1,5 +1,5 @@
 
-# 2025_Food_and_Beverage_Outlet_Menu_Demand_Forecasting_(LG_Aimers_7th)
+# 2025 Food and Beverage Outlet Menu Demand Forecasting (LG Aimers 7th)
 
 ## Competition result
 - **13th place** out of 817 teams, *Team Bellissimo*
