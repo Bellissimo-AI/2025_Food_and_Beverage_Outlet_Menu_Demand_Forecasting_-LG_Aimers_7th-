@@ -10,11 +10,13 @@
 
 ## Overview
 **Task**: Forecast daily menu-level sales demand for food & beverage outlets and generate a submission file
+
 **Key ideas**:
    - Periodic features (day of week, month) + holiday flag
    - Log-transformed sales and rolling statistics
    - Multi-output LSTM with menu ID embeddings
    - Date-based K-Fold cross-validation + fold ensembling
+
 **Outputs**:
    - outputs/models/model_fold{K}.pth (fold-level models)
    - outputs/scaler.pkl (scaler and mapping info)
